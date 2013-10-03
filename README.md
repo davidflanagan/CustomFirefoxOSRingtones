@@ -6,9 +6,8 @@ provide new ringtones for the system.
 
 To try it out, you'll need a FirefoxOS device running version 1.2 or
 later of the operating system.  To install this app, visit
-http://davidflanagan.github.io/CustomFirefoxOSRingtones/install.html
-using the FirefoxOS browser app and click on the Install button you
-see there.
+http://git.io/djf using the FirefoxOS browser app and click on the
+Install button you see there.
 
 This is a "system" app, so you won't see an icon on the homescreen
 when you install it.  After installing, open the Settings app and
@@ -29,7 +28,7 @@ The important files in this repo are the following:
   URL. Use the version at
   http://davidflanagan.github.io/CustomFirefoxOSRingtones/install.html
   (Long URLs are hard on mobile devices, so you can also use
-  http://git.io/djf instead) 
+  http://git.io/djf instead)
 
 - myringtones/ The demo app itself
 
