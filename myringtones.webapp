@@ -1,0 +1,9 @@
+{
+  "name": "My Ringtones",
+  "package_path": "http://davidflanagan.github.io/CustomFirefoxOSRingtones/myringtones.zip",
+  "version": 1,
+  "developer": {
+    "name": "David Flanagan",
+    "url": "http://blog.djf.net"
+  }
+}
