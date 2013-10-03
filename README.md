@@ -28,6 +28,8 @@ The important files in this repo are the following:
   button to install the app. Note that this file includes a hardcoded
   URL. Use the version at
   http://davidflanagan.github.io/CustomFirefoxOSRingtones/install.html
+  (Long URLs are hard on mobile devices, so you can also use
+  http://git.io/djf instead) 
 
 - myringtones/ The demo app itself
 
